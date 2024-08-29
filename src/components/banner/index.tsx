@@ -22,7 +22,7 @@ export  function Banner() {
                     onPress={() => console.log('Clicou no banner 2')}>
 
                     <Image
-                        source={require("../../assets/banner2.png")}
+                        source={require("../../assets/banner2.png")}    
                         className='w-full h-36 md:h-60 rounded-2xl'
                     />
 
