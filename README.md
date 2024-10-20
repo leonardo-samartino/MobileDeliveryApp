@@ -15,5 +15,5 @@ SRC > COMPONENTS > LIST > INDEX.TSX linha  17 <BR>
 SRC > COMPONENTS > RESTAURANTS > INDEX.TSX > linha  16<BR>
 SRC > COMPONENTS > TRENDING > INDEX.TSX > linha  27<BR>
 
-![image](https://github.com/user-attachments/assets/523c7608-9592-4da7-94fd-0399bd59ac5f)
+![image](https://github.com/user-attachments/assets/fe4a9ffd-d8fb-4575-a7d1-e25dc2aa99b9)
 
